@@ -6,3 +6,8 @@ METEOR
 ROUGE
 CIDER
 SPICE
+gleu
+SkipThoughtCS
+EmbeddingAverageCosineSimilarity
+VectorExtremaCosineSimilarity
+GreedyMatchingScore
