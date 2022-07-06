@@ -20,3 +20,9 @@ So use it and goodluck :)<br>
  - EmbeddingAverageCosineSimilarity
  - VectorExtremaCosineSimilarity
  - GreedyMatchingScore
+
+### Used Libraries:
+-------------------
+ - pycocoevalcap
+ - ngEval
+ - nltk
