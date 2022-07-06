@@ -1,20 +1,22 @@
-# Evaluation-Metrics-for-Image-captioning-in-python-3
+### Evaluation-Metrics-for-Image-captioning-in-python-3
 
-I have seen many people who can't easily evalute the captions in automatic image captioning. So I have gathered almost all the metrics available for it. So use it and goodluck :)
+I have seen many people who struggle to evalute the quality of captions using evaluation metrics in image captioning. 
+So I have gathered almost all the metrics available for it and impelented in **python 3**. 
+So use it and goodluck :)
 
 
 Available metrics:
 ------------------
-  BLEU-1
-  BLEU-2
-  BLEU-3
-  BLEU-4
-  METEOR
-  ROUGE
-  CIDER
-  SPICE
-  gleu
-  SkipThoughtCS
-  EmbeddingAverageCosineSimilarity
-  VectorExtremaCosineSimilarity
-  GreedyMatchingScore
+ - BLEU-1
+ - BLEU-2
+ - BLEU-3
+ - BLEU-4
+ - METEOR
+ - ROUGE
+ - CIDER
+ - SPICE
+ - gleu
+ - SkipThoughtCS
+ - EmbeddingAverageCosineSimilarity
+ - VectorExtremaCosineSimilarity
+ - GreedyMatchingScore
