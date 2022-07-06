@@ -7,7 +7,6 @@ So use it and goodluck :)<br>
 
 Available metrics:
 ------------------
-`
  - BLEU-1
  - BLEU-2
  - BLEU-3
@@ -21,4 +20,3 @@ Available metrics:
  - EmbeddingAverageCosineSimilarity
  - VectorExtremaCosineSimilarity
  - GreedyMatchingScore
-`
