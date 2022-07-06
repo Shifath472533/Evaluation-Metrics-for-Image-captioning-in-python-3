@@ -1,7 +1,7 @@
 ### Evaluation-Metrics-for-Image-captioning-in-python-3
 
 I have seen many people who struggle to evalute the quality of captions using evaluation metrics in image captioning. <br>
-So I have gathered almost all the metrics available for it and impelented in **python 3**. <br>
+So I have gathered almost all the metrics available for it in **Calculating_Metrics.ipynb** implementing in **python 3**. <br>
 So use it and goodluck :)<br>
 
 
@@ -26,3 +26,9 @@ So use it and goodluck :)<br>
  - pycocoevalcap
  - ngEval
  - nltk
+
+
+### Examples:
+---------
+- gts.json   -> this file contains example captions with image ids
+- res.json   -> this file contains references for the example captions
